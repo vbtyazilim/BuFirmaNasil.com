@@ -1,0 +1,15 @@
+
+Business/obj/*
+Repository/obj/*
+Models/obj/*
+Utilities/obj/*
+Common/obj/*
+WebApi/obj/*
+BuNasilFirma/v16/*
+Business/bin/*
+Repository/bin/*
+Models/bin/*
+Utilities/bin/*
+Common/bin/*
+WebApi/bin/*
+BuNasilFirma/*
